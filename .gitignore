@@ -203,6 +203,12 @@ cython_debug/
 # Temporary file for partial code execution
 tempCodeRunnerFile.py
 
+# Lab 21 artifacts (large — submit via ZIP, not git)
+lab21_lora_t4-*.zip
+notebook_stripped.ipynb
+*.safetensors
+.venv/
+
 # Ruff stuff:
 .ruff_cache/
 
